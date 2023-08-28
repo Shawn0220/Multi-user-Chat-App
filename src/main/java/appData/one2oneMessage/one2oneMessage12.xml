@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><chat>
+<message>
+<user>2</user>
+<receiver>1</receiver>
+<time>2023-06-08T22:53:07</time>
+<content>你好</content>
+</message>
+<message>
+<user>1</user>
+<receiver>1</receiver>
+<time>2023-06-08T22:53:25</time>
+<content>你好Admin</content>
+</message>
+<message>
+<user>1</user>
+<receiver>0</receiver>
+<time>2023-06-08T22:53:39</time>
+<content>你也好</content>
+</message>
+<message><user>1</user><receiver>1</receiver><time>2023-06-09T00:32:07</time><content>我好昭</content></message></chat>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chat>
+    <message>
+        <user>Admin</user>
+        <time>2021-2-01T15:30:00</time>
+        <content>This is a test</content>
+    </message>
+    <message>
+        <user>John</user>
+        <time>2022-10-01T15:30:00</time>
+        <content>Hello Jane!</content>
+    </message>
+    <message>
+        <user>Jane</user>
+        <time>2022-10-01T15:31:00</time>
+        <content>Hi John, how are you?</content>
+    </message>
+    <message>
+        <user>John</user>
+        <time>2023-10-01T15:32:00</time>
+        <content>I'm doing well, thanks for asking.</content>
+    </message>
+</chat>

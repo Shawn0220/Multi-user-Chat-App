@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user uid="1">
+        <uname>Admin</uname>
+        <ulevel>150</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="2">
+        <uname>测试用户2</uname>
+        <ulevel>14</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="3">
+        <uname>测试用户3</uname>
+        <ulevel>18</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="4">
+        <uname>测试用户4</uname>
+        <ulevel>6</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="5">
+        <uname>测试用户5</uname>
+        <ulevel>11</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="6">
+        <uname>测试用户6</uname>
+        <ulevel>9</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="7">
+        <uname>测试用户7</uname>
+        <ulevel>17</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="8">
+        <uname>测试用户8</uname>
+        <ulevel>5</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="9">
+        <uname>测试用户9</uname>
+        <ulevel>12</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="10">
+        <uname>测试用户10</uname>
+        <ulevel>16</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="11">
+        <uname>测试用户11</uname>
+        <ulevel>3</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="12">
+        <uname>测试用户12</uname>
+        <ulevel>7</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="13">
+        <uname>测试用户13</uname>
+        <ulevel>10</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="14">
+        <uname>测试用户14</uname>
+        <ulevel>19</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="15">
+        <uname>测试用户15</uname>
+        <ulevel>4</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="16">
+        <uname>测试用户16</uname>
+        <ulevel>8</ulevel>
+        <usex>男</usex>
+    </user>
+    <user uid="17">
+        <uname>测试用户17</uname>
+        <ulevel>13</ulevel>
+        <usex>女</usex>
+    </user>
+    <user uid="18">
+        <uname>测试用户18</uname>
+        <ulevel>2</ulevel>
+        <usex>男</usex>
+    </user>
+</users>

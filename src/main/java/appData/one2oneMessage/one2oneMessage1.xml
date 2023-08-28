@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><chat>
+
+<message>
+<user>2</user>
+<receiver>1</receiver>
+<time>2023-06-08T22:56:56</time>
+<content>测试</content>
+</message>
+<message>
+<user>2</user>
+<receiver>1</receiver>
+<time>2023-06-08T22:57:10</time>
+<content>你好</content>
+</message>
+<message><user>12</user><receiver>0</receiver><time>2023-06-09T00:32:07</time><content>我好昭</content></message><message><user>15</user><receiver>0</receiver><time>2023-06-09T10:28:34</time><content>123</content></message><message><user>15</user><receiver>0</receiver><time>2023-06-09T10:28:59</time><content>测试实时消息更新</content></message><message><user>4</user><receiver>0</receiver><time>2023-06-09T10:31:58</time><content>Admin你好</content></message><message><user>2</user><receiver>0</receiver><time>2023-06-09T10:33:22</time><content>测试私聊消息实时更新</content></message><message><user>3</user><receiver>1</receiver><time>2023-06-09T22:21:14</time><content>单人聊天测试ddd</content></message><message><user>3</user><receiver>0</receiver><time>2023-06-09T22:21:27</time><content>nihao</content></message><message><user>4</user><receiver>1</receiver><time>2023-06-10T23:04:22</time><content>你好</content></message><message><user>4</user><receiver>0</receiver><time>2023-06-10T23:04:28</time><content>halo</content></message><message><user>4</user><receiver>1</receiver><time>2023-06-10T23:14:04</time><content>你好，测试实时更新</content></message><message><user>5</user><receiver>1</receiver><time>2023-06-10T23:15:29</time><content>你好</content></message><message><user>5</user><receiver>0</receiver><time>2023-06-10T23:43:02</time><content>123</content></message><message><user>5</user><receiver>1</receiver><time>2023-06-12T14:51:08</time><content>准备验收准备验收</content></message><message><user>6</user><receiver>0</receiver><time>2023-06-12T17:00:41</time><content>的说法是</content></message><message><user>6</user><receiver>1</receiver><time>2023-06-12T17:03:48</time><content>阿斯蒂</content></message></chat>

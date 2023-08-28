@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><chat>
+
+<message><user>1</user><receiver>1</receiver><time>2023-06-08T23:41:29</time><content>123</content></message><message><user>1</user><receiver>0</receiver><time>2023-06-09T22:21:14</time><content>单人聊天测试ddd</content></message><message><user>1</user><receiver>1</receiver><time>2023-06-09T22:21:27</time><content>nihao</content></message><message><user>5</user><receiver>0</receiver><time>2023-06-10T18:59:17</time><content>你好</content></message><message><user>5</user><receiver>1</receiver><time>2023-06-10T18:59:30</time><content>Halllll你好啊但是发射点发</content></message></chat>
